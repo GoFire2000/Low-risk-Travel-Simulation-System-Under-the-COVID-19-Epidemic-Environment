@@ -1,0 +1,9 @@
+﻿  TravelSimulationSystem.cpp
+c:\users\许子康\desktop\课程设计\数据结构\2018211514-许子康\source_code\travelsimulationsystem\travelsimulationsystem\travelsimulationsystem.cpp(59): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 参见“kbhit”的声明
+c:\users\许子康\desktop\课程设计\数据结构\2018211514-许子康\source_code\travelsimulationsystem\travelsimulationsystem\travelsimulationsystem.cpp(60): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+c:\users\许子康\desktop\课程设计\数据结构\2018211514-许子康\source_code\travelsimulationsystem\travelsimulationsystem\travelsimulationsystem.cpp(35): warning C4101: “nowTime”: 未引用的局部变量
+  function.cpp
+  正在生成代码...
+  TravelSimulationSystem.vcxproj -> C:\Users\许子康\Desktop\课程设计\数据结构\2018211514-许子康\source_code\TravelSimulationSystem\Debug\TravelSimulationSystem.exe
